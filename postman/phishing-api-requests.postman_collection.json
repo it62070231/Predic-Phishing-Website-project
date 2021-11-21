@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "c5f32186-a23e-4add-aeb5-707cd25b56df",
+		"name": "phishing-api-requests",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Test Main Server",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "Predict",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
